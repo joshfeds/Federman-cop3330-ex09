@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7da9a307-15b1-46ba-bf02-5761d772234e" name="Default Changelist" comment="" />
+    <list default="true" id="7da9a307-15b1-46ba-bf02-5761d772234e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/exercise/Exercise09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/exercise/Exercise09.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -18,6 +25,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1tVm1GZPIQMLpGSlKSM0eSFmyv9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,15 +33,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\feder\OneDrive\Desktop\Josh\Summer Semester 2021\OOP\EX09" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="Exercise09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.Exercise09.Exercise09" />
+    <configuration name="exercise" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="oop.exercise.Exercise09" />
       <module name="EX09" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oop.Exercise09.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="oop.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -43,7 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise09" />
+        <item itemvalue="Application.exercise" />
       </list>
     </recent_temporary>
   </component>
@@ -56,6 +75,18 @@
       <option name="presentableId" value="Default" />
       <updated>1622862417629</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercise 09">
+      <created>1622864231674</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622864231674</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercise 09" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 09" />
   </component>
 </project>

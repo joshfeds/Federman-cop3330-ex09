@@ -8,7 +8,6 @@ import java.lang.Math;
 public class Exercise09
 {
     static Scanner input = new Scanner(System.in);
-
     static final float SQRFT_PER_GALLON = 350;
     public static int getLength() {
         System.out.print("What is the length of the room in feet? ");
